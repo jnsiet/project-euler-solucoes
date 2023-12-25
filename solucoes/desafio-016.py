@@ -1,6 +1,8 @@
-""""
-Soma de dígitos de potência
+"""
+>> Soma de dígitos de potência
+
 2^15 = 32768 e a soma de seus algarismos é 3 + 2 + 7 + 6 + 8 = 26.
+
 Qual é a soma dos algarismos do número 2^1000?
 """
 

@@ -1,5 +1,6 @@
 """
-Grande soma
+>> Grande soma
+
 Calcule os dez primeiros dígitos da soma dos cem seguintes números de 50 dígitos.
 
                 37107287533902102798797998220837590246510135740250

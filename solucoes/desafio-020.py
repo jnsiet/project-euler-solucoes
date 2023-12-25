@@ -1,9 +1,11 @@
 """
-Soma fatorial de dígitos
+>> Soma fatorial de dígitos
 
 n! significa n × (n − 1) × ... × 3 × 2 × 1.
+
 Por exemplo, 10! = 10 × 9 × ... × 3 × 2 × 1 = 3628800,
 e a soma dos dígitos do número 10! é 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.
+
 Encontre a soma dos dígitos do número 100!.
 """
 
