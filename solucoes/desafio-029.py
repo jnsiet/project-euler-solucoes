@@ -20,8 +20,8 @@ numeros = []
 
 for base in range(2, 101):
     for expoente in range(2, 101):
-        resultado = pow(base, expoente)
-        if resultado not in numeros:
-            numeros.append(resultado)
+        potencia = pow(base, expoente)
+        if potencia not in numeros:
+            numeros.append(potencia)
 
 print(f"RESPOSTA: {len(numeros)}")
