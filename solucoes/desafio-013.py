@@ -1,5 +1,5 @@
 """
->> Grande soma
+>> Grande Soma
 
 Calcule os dez primeiros dígitos da soma dos cem seguintes números de 50 dígitos.
 

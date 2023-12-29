@@ -1,5 +1,5 @@
 """
->> Soma fatorial de dígitos
+>> Soma Fatorial de Dígitos
 
 n! significa n × (n − 1) × ... × 3 × 2 × 1.
 

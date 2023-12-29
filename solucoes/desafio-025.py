@@ -1,5 +1,5 @@
 """
->> Número de Fibonacci de 1000 dígitos
+>> Número de Fibonacci de 1000 Dígitos
 
 A sequência de Fibonacci é definida pela relação de recorrência:
 

@@ -1,5 +1,5 @@
 """
->> Poderes distintos
+>> Poderes Distintos
 
 Considere todas as combinações inteiras de a^b para 2 ≤ a ≤ 5 e 2 ≤ b ≤ 5:
 

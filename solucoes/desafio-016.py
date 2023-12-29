@@ -1,5 +1,5 @@
 """
->> Soma de dígitos de potência
+>> Soma de Dígitos de Potência
 
 2^15 = 32768 e a soma de seus algarismos é 3 + 2 + 7 + 6 + 8 = 26.
 

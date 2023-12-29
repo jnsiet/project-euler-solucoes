@@ -1,5 +1,5 @@
 """
->> Poderes próprios
+>> Poderes Próprios
 
 A série de potências, 1^1 + 2^2 + 3^3 + ... + 10^10 = 10405071317.
 
