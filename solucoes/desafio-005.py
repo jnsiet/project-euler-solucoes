@@ -3,7 +3,7 @@
 
 2520 é o menor número que pode ser dividido por cada um dos números de 1 a 10 sem qualquer resto.
 
-Qual é o menor número positivo que é igualmente divisível por todos os números de 1 a 20?
+Qual é o menor número positivo que é igualmente divisível (divisível sem resto) por todos os números de 1 a 20?
 """
 
 from itertools import count
