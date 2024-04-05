@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://github.com/jnsiet/project-euler-solucoes/assets/125516697/79abe2b1-2e66-449c-8095-a745ce09913e" alt="Leonhard Euler" width="748" height="439">
-</p>
-
 # Project Euler
 
 Este repositório contém soluções para os desafios de matemática e programação de computadores propostos no site [Project Euler][1].
